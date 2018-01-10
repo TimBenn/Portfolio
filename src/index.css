@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Sriracha', cursive;
+  background-color: #429993;
 }
 
 h1, h2, h3, h4, h5 {
@@ -9,7 +10,19 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  font-size: 90px;
+  font-size: 75px;
+  color: #F3ECDA;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  text-shadow: 2px 2px 2px #000,
+   2px -2px 2px #000,
+    -2px -2px 2px #000,
+     -2px 2px 2px #000,
+      8px 3px 0px #F46D55,
+       9px 2px 0px #000,
+        7px 2px 0px #000,
+         7px 4px 0px #000,
+          9px 4px 0px #000;
 }
 
 h2 {

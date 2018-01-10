@@ -7,7 +7,6 @@ class Layout extends Component {
     return (
       <div>
         <Header />
-        <h1>Cool</h1>
       </div>
     );
   }
